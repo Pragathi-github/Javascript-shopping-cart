@@ -158,7 +158,7 @@
 
   .row-cols-md-2 > * {
     flex: 0 0 auto;
-    width: 50%;
+    width: 60%;
   }
 
   .row-cols-md-3 > * {
@@ -168,7 +168,7 @@
 
   .row-cols-md-4 > * {
     flex: 0 0 auto;
-    width: 20%;
+    width: 30%;
   }
 
   .row-cols-md-5 > * {
